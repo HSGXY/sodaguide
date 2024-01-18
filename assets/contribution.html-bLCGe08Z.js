@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as n,a as t}from"./app-mlfL-c4E.js";const c={},s=t("div",{class:"hint-container note"},[t("p",{class:"hint-container-title"},"施工中……")],-1),i=[s];function r(a,_){return o(),n("div",null,i)}const f=e(c,[["render",r],["__file","contribution.html.vue"]]);export{f as default};
